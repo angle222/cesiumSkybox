@@ -1,2 +1,4 @@
 # cesiumSkybox
 cesium近景天空盒
+里面有一些测试用到的文件，可能没什么用处，但是时间有点久，就忘记了每一部分的内容了，也没有时间整理一下
+skyBoxOnGround.js 这个文件主要是修改了cesium里面原来skybox的方法
